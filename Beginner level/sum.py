@@ -1,6 +1,6 @@
-n=int(input("Enter a number: "))
-sum1 = 0
-while(n > 0):
-    sum1=sum1+n
-    n=n-1
-print("The sum of first n natural numbers is",sum1)
+x=int(input())
+z= 0
+while(x > 0):
+    z=z+x
+    x=x-1
+print(z)
